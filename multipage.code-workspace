@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../css.code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "multipage",
+		"liveServer.settings.port": 5501
+	}
+}
